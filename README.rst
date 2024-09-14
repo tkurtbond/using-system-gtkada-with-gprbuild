@@ -1,5 +1,5 @@
-Using GtkAda3 on Fedora Linux with gprbuild with the GtkAda3 Fedora packages
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+Using GtkAda3 with the GtkAda3 installed using system packages on Fedora and Ubuntu
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 This is a simple Hello World example using GtkAda3 with gprbuild with
 the GtakAda system packages.  It compiles and runs on both on Fedora
